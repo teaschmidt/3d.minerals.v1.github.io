@@ -30,7 +30,7 @@ model-viewer {
   grid-row: 1 / 7;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 880px) {
   .a {
     grid-column: 1 / 8;
     grid-row: 1 / 7;
